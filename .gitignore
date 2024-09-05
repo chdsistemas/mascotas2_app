@@ -1,5 +1,0 @@
-.env            # Ignorar posibles o futuros archivos .env de configuración de la aplicación
-__pycache__/    # Ignorar archivos de Pyhon predeterminados
-*.log           # Posible archivos de notificación de errores
-.vscode/        # Ignorar posibles archivos de configuración de vscode
-
